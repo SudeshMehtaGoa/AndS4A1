@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_Login">Login</string>
+    <string name="txt_signin">Not a member? Sign up now.</string>
+
+</resources>
